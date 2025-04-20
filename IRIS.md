@@ -162,7 +162,9 @@ Both models achieved **perfect classification** on the test set.
 **📌 Note**: The full code and visualizations are available in the provided notebook.  
 
 ---
-**Author**: Nageshwar Kumar  
-**Date**: 20-04-2025  
+**Author**: Nageshwar Kumar 
+**Email**: 2022uee0138@iitjammu.ac.in
+**Date**: 20-04-2025 
+
 
 
